@@ -1,4 +1,4 @@
-### Project Title: Manga Colorizer Using TensorFlow and OpenCV
+### Project Title: Manga Colorizer Using TensorFlow
 
 #### Project Description:
 This project is a manga colorization tool that leverages deep learning techniques using TensorFlow. The primary goal of the project is to automatically colorize black-and-white manga images using trained models. This notebook demonstrates how to preprocess manga images, build and train neural networks, and generate colorized versions of the manga panels.
@@ -14,7 +14,7 @@ The project makes use of the [Manga109 dataset](http://www.manga109.org/en/downl
 #### Installation:
 To run the notebook, ensure you have the following dependencies installed:
 ```bash
-pip install tensorflow opencv-python matplotlib
+pip install tensorflow matplotlib
 ```
 
 #### Usage:
