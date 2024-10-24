@@ -22,7 +22,7 @@ pip install tensorflow opencv-python matplotlib
     ```bash
     git clone https://github.com/your-repo/manga-colorizer.git
     ```
-2. Download the Manga109 dataset from [here](http://www.manga109.org/en/download.html) and place it in the appropriate folder.
+2. Download the dataset from [here]([http://www.manga109.org/en/download.html](https://github.com/Garima-Bazard/Iro_it/tree/main/cover%20images%20split)) and place it in the appropriate folder.
 3. Open the notebook `Iro_it_manga_colorizer.ipynb` and run the cells sequentially to process and colorize manga images.
 
 #### Dataset:
